@@ -57,7 +57,7 @@ This is a web based application developed for health and beauty related based we
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Azure(Hosting)
 - HTML
 - CSS
 - Bootstrap
